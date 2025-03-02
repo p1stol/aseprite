@@ -1,4 +1,4 @@
-name: build
+name: aseprite
 on: [push, pull_request]
 jobs:
   build:
